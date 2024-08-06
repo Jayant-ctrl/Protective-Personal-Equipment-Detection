@@ -2,7 +2,7 @@
 
 #### ▶ The project uses YOLOv8 Deep Learning Model to detect the presence of Protective-Personal-Equipment like Hard hats, Masks, Safety Jacket etc. on top of people's clothes.  
 
-https://github.com/user-attachments/assets/70b41ed4-e046-49a3-bcd0-ffe943576d8f
+https://github.com/user-attachments/assets/eaf46062-22f8-452a-a33a-8ba7a84fe029
 
 ## 🎆Features
 ####  1. The model weight is YOLOv8l.pt. It is bigger in size but more accurate than YOLOv8n.pt or YOLOv8s.pt.
